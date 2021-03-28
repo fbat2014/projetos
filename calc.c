@@ -25,7 +25,7 @@ int main() {
                 printf("\nResultado: %d \n", x/y);
                 break;
                 };
-         printf("\n \n Deseja fazer outra operação?? \n \n");
+         printf("\n \n Deseja fazer outra operação? \n \n");
          printf("Digite 1 para sim e 2 para não ==> ");
          scanf("%d", &w);
          system("clear");
